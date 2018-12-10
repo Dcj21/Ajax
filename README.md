@@ -4,21 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10 2018
 
 ### Student Name:  
-(First and Last Name)
+Juan D Carballo Sanchez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The student, being me, utilized an API and bootstrap to help create a movie database.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dcj21.github.io/lesson8_Ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what an API was.
+2. I learned about JSON 
+3. I learned about Bootstrap
+4. I learned about Ajax
