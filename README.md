@@ -13,7 +13,7 @@ Juan D Carballo Sanchez
 The student, being me, utilized an API and bootstrap to help create a movie database.
 
 ### View Project:
-https://dcj21.github.io/lesson8_Ajax/
+https://dcj21.github.io/Ajax/
 
 ### Lessons Learned in the Assignment:
 1. I learned what an API was.
